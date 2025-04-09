@@ -1,0 +1,6 @@
+parameter,value
+threshold0,70
+threshold1,143
+threshold2,242
+low_bound,150
+mid_bound,209
