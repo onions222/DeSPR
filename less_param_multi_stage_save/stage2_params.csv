@@ -1,6 +1,6 @@
 parameter,value
-threshold0,112
-threshold1,163
-threshold2,235
-low_bound,74
-mid_bound,129
+threshold0,76
+threshold1,164
+threshold2,253
+low_bound,42
+mid_bound,94
