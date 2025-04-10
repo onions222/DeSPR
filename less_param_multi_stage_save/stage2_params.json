@@ -1,7 +1,7 @@
 {
-  "threshold0": 76,
-  "threshold1": 164,
+  "threshold0": 47,
+  "threshold1": 161,
   "threshold2": 253,
-  "low_bound": 42,
-  "mid_bound": 94
+  "low_bound": 63,
+  "mid_bound": 117
 }
